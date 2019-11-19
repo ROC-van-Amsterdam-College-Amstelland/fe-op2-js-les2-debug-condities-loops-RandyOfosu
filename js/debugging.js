@@ -6,7 +6,7 @@
 
 function getAge() {
   var myAge = document.getElementById("myAge").value; //de eerste variabele is voor je aangemaakt...
-
+/testest
   if (myAge <= 10) {
     //vul de juiste voorwaarde in!
     document.getElementById("brand").src = "images/logo-01.png";
